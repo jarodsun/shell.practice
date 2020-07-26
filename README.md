@@ -6,3 +6,7 @@
 shell 输出文字涂色的测试脚本
 
 文章链接->[点这里](http://jarodsun.com/article/2020/07/24/echo-with-colors)
+
+## Jekyll
+
+下载`post.sh`文件，放置到Jekyll项目的根目录。
